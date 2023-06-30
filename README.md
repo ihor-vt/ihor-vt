@@ -14,5 +14,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihor-vt&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ihor-vt" height="160" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihor-vt&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="ihor-vt" height="160"/></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihor-vt&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="ihor-vt" height="160"/></p> -->
 
