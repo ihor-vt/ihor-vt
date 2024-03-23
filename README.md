@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ihor Voitiuk</h1>
-<h3 align="center">Full Stack Developer from Ukraine</h3>
+<h3 align="center">Full Stack Developer</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ihor-vt" target="blank"><img align="center" src="https://github.com/fluidicon.png" alt="ihor-vt" height="30" width="30" /></a>
