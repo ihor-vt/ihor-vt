@@ -1,11 +1,13 @@
-<div id="header" align="center">
+<div id="header" style="margin-bottom: 3rem;" align="center">
   <img src="./assets/github.gif" width="100"/>
 
-  <h1>
-  Hey there, I'm Ihor!
-  <img src="./assets/giphy.gif" width="30px" alt="GIF">
-  </h1>
+  <div style="font-size: 2em; font-weight: bold; font-family: monospace; text-shadow: 2px 2px #000000;">
+    Hey there, I'm Ihor!
+    <img src="./assets/giphy.gif" width="30px" alt="GIF">
+  </div>
 </div>
+
+<div style="font-family: monospace;">
 
 ## 👨‍💻 About Me
 
@@ -13,7 +15,7 @@ Full-stack developer with experience in backend and frontend development. Occasi
 
 ## 📫 Connect with Me:
 
-<a href="https://www.linkedin.com/in/ihor-voitiuk/" target="blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ihor-voitiuk/" height="50"/></a>
+<a href="https://www.linkedin.com/in/ihor-voitiuk/" target="blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ihor-voitiuk/" height="45"/></a>
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +54,11 @@ Full-stack developer with experience in backend and frontend development. Occasi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-vt&layout=compact&theme=dracula)
 
+---
+
 ### 🚀 Let's Connect!
 
 I'm open to discussions, collaborations, and feedback. Feel free to reach out!
 📩 **DM me on LinkedIn or check out my projects below!**
+
+</div>
