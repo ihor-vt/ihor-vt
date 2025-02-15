@@ -1,40 +1,58 @@
-<h1 align="center">Hi 👋, I'm Ihor Voitiuk</h1>
-<h3 align="center">Full Stack Developer</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ihor-voitiuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladbb" height="30" width="40" /></a>
+<div id="header" align="center">
+  <img src="./assets/github.gif" width="100"/>
 
+  <h1>
+  Hey there, I'm Ihor!
+  <img src="./assets/giphy.gif" width="30px" alt="GIF">
+  </h1>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <label>Backend</label>
-  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="60"         
-     height="40"/> </a>
+## 👨‍💻 About Me
 
- <label>Frontend</label>
- 
-<a data-ved="0CBIQjRxqFwoTCICdmaKOioUDFQAAAAAdAAAAABAE" rel="noopener" target="_blank" href="https://www.vecteezy.com/png/27127463-javascript-logo-png-javascript-icon-transparent-png" jsaction="focus:trigger.HTIQtd;mousedown:trigger.HTIQtd;touchstart:trigger.HTIQtd;;" role="link" tabindex="0" aria-label="Перейти на сайт Vecteezy"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" style="width: 50px; height: 45px;" alt="javascript logo png, javascript icon transparent png ..."></a>
-<a href="[https://github.com/vuejs](https://en.wikipedia.org/wiki/HTML)"><img src="https://static.javatpoint.com/htmlpages/images/html-tutorial.png" width="50" height="45" alt="HTML"></a>
-<a data-ved="0CBIQjRxqFwoTCNj6jaqnioUDFQAAAAAdAAAAABAE" rel="noopener" target="_blank" href="https://play.google.com/store/apps/details?id=com.codeliber.csspro&amp;hl=nl" jsaction="focus:trigger.HTIQtd;mousedown:trigger.HTIQtd;touchstart:trigger.HTIQtd;;" class="jlTjKd" role="link" tabindex="0"><img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="width: 45px; height: 40px;" alt="CSS" jsname="kn3ccd" aria-hidden="false"></a>
-<a href="https://github.com/vuejs"><img itemprop="image" src="https://avatars.githubusercontent.com/u/6128107?s=200&amp;v=4" width="50" height="50" alt="@vuejs"></a>
+Full-stack developer with experience in backend and frontend development. Occasionally working with web scraping.
 
- <label>Database</label>
- 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com" class="css-knbtqt"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="MongoDB logo" width="130" height="40"></a> 
+## 📫 Connect with Me:
 
-<label>Tools</label>
+<a href="https://www.linkedin.com/in/ihor-voitiuk/" target="blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ihor-voitiuk/" height="50"/></a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"     alt="docker" width="40" height="40"/> </a>
+## 🛠️ Tech Stack
 
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihor-vt&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ihor-vt" height="160" /></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ihor-vt&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="ihor-vt" height="160"/></p> -->
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastApi" height="50" /></a>
 
+### Frontend
+
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>
+
+### Databases
+
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="50"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+
+### DevOps & Tools
+
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://postman.com" target="_blank"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50"/> </a>
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-vt&layout=compact&theme=dracula)
+
+### 🚀 Let's Connect!
+
+I'm open to discussions, collaborations, and feedback. Feel free to reach out!
+📩 **DM me on LinkedIn or check out my projects below!**
