@@ -1,11 +1,12 @@
 <div id="header" style="margin-bottom: 3rem;" align="center">
   <img src="./assets/github.gif" width="100"/>
 
-  <div style="font-size: 2em; font-weight: bold; font-family: monospace; text-shadow: 2px 2px #000000;">
+  <h1>
     Hey there, I'm Ihor!
     <img src="./assets/giphy.gif" width="30px" alt="GIF">
-  </div>
+  </h1>
 </div>
+
 
 <div style="font-family: monospace;">
 
@@ -54,9 +55,8 @@ Full-stack developer with experience in backend and frontend development. Occasi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihor-vt&layout=compact&theme=dracula)
 
----
 
-### 🚀 Let's Connect!
+## 🚀 Let's Connect!
 
 I'm open to discussions, collaborations, and feedback. Feel free to reach out!
 📩 **DM me on LinkedIn or check out my projects below!**
